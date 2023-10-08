@@ -334,8 +334,6 @@ button:hover .play {
 }
 
 .experience img{
-    margin: auto;
-    justify-content: center;
     height: 200px;
     border-radius: 50%;
 }
@@ -375,7 +373,7 @@ footer{
 }
   /* END BAGIAN SCROLLBAR */
 
-/* @media screen 
+@media screen 
 and (max-device-width : 767px) 
 and (min-device-width :576px){
 .project .kotak{
@@ -528,10 +526,11 @@ and (min-device-width : 240px){
 
 .project .tombol{
     width: 30px;
-    } */
+    }
 
 /* .copyright{
     margin-top: -20rem;
     } */
 
+}
 
