@@ -373,7 +373,7 @@ footer{
 }
   /* END BAGIAN SCROLLBAR */
 
-@media screen 
+/* @media screen 
 and (max-device-width : 767px) 
 and (min-device-width :576px){
 .project .kotak{
@@ -526,10 +526,10 @@ and (min-device-width : 240px){
 
 .project .tombol{
     width: 30px;
-    }
+    } */
 
 /* .copyright{
     margin-top: -20rem;
     } */
-}
+
 
