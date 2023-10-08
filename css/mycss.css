@@ -334,6 +334,8 @@ button:hover .play {
 }
 
 .experience img{
+    margin: auto;
+    justify-content: center;
     height: 200px;
     border-radius: 50%;
 }
